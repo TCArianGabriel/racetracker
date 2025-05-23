@@ -1,4 +1,3 @@
-
 package com.example.racetracker.ui.theme
 
 import androidx.compose.ui.graphics.Color
